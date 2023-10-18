@@ -1,0 +1,9 @@
+.box{
+    padding: 200px;
+    display: flex;
+}
+.p1{
+    text-align: left;
+    margin-right: 20px;
+}
+    
